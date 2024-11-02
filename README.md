@@ -12,8 +12,8 @@
 
 ## Screenshots
 
-![DocuShelf Thumbnail View](<img width="894" alt="in-menu" src="https://github.com/user-attachments/assets/c4416ae0-9fc7-4ff2-9b78-2cfe5ab94248">)
-![DocuShelf PDF Viewer](<img width="894" alt="in-pdf" src="https://github.com/user-attachments/assets/b5e21087-c675-4c67-896e-237c1dc16051">)
+![DocuShelf Thumbnail View](https://github.com/user-attachments/assets/c4416ae0-9fc7-4ff2-9b78-2cfe5ab94248)
+![DocuShelf PDF Viewer](https://github.com/user-attachments/assets/b5e21087-c675-4c67-896e-237c1dc16051)
 
 ## Requirements
 
